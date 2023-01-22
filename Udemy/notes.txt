@@ -1,6 +1,0 @@
-##Notes 
-
-#Section-2
-
-* Arrays
-    * Arrays are 
